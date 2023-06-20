@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### Sobre o Rogério
+Estudante de TI SENAI informatica
+
+### Detalhes
+
+
+### Projeto
+
+
+### Linguagens utilizadas
+
+
+### Contato
