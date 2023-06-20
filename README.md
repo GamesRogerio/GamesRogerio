@@ -32,4 +32,4 @@ Estudante de TI SENAI informatica
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/pedrobrocaldi/](https://www.linkedin.com/in/rog%C3%A9rio-games-350674275/)https://www.linkedin.com/in/rog%C3%A9rio-games-350674275/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/rog%C3%A9rio-games-350674275/)https://www.linkedin.com/in/rog%C3%A9rio-games-350674275/)
