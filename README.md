@@ -28,7 +28,7 @@ Estudante de TI SENAI informatica
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jornadadev2803&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamesRogerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
